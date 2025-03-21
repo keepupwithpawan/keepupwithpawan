@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Pawan 👋<br>I'm a Computer Engineering student and Frontend Developer from Mumbai, India. Currently working as lead Frontend Developer at Vetra, building a platform that helps developers discover designs and explore source code.<br><br>🌱 Currently<br>Completing my Computer Engineering degree at SIES-GST<br>Building Vetra - a Pinterest alternative for developers<br>Working on projects at the intersection of technology and mental wellbeing<br><br>🚀 Projects<br>Vetra - A Pinterest alternative for developers<br>Gita-GPT - Bhagavad Gita verses organized by emotional states using Hume AI<br>Breather - 4-7-8 Pranayama Yoga and productivity tools<br><br>📫 Connect<br>Feel free to reach out - always open to collaborating on interesting projects!<br>Made with ❤ by pa1.
+Hi there, I'm Pawan 👋<br>I'm a Computer Engineering student and Frontend Developer from Mumbai, India. Currently working as lead Frontend Developer at Vetra, building a platform that helps developers discover designs and explore source code.<br><br>🌱 Currently<br>Completing my Computer Engineering degree at SIES-GST<br>Building Vetra - a Pinterest alternative for developers<br>Working on projects at the intersection of technology and mental wellbeing<br><br>Made with ❤ by pa1.
 
 
 ## 🌐 Socials:
