@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Pawan 👋<br>I'm a Computer Engineering student and Frontend Developer from Mumbai, India. Currently working as Junior Software Developer at uKnowva HRMS. I am also the Lead Frontend Developer at Gradii, an AI-powered recruitment agent.<br><br>Made with ❤ by pa1.
+Hi there, I'm Pawan 👋<br>I am a Computer Engineer and Software Developer from Mumbai, India. Currently working as a Junior Software Developer at uKnowva HRMS. I am also the Lead Frontend Developer at Gradii, an AI-powered recruitment agent.<br><br>Made with ❤ by pa1.
 
 
 ## 🌐 Socials:
